@@ -530,7 +530,6 @@
             { "value": "ja", "text": "日语 (Japanese)" },
             { "value": "si", "text": "僧伽罗语 (Sinhala)" },
             { "value": "my", "text": "缅甸语 (Myanmar Burmese)" },
-            { "value": "si", "text": "僧伽罗语 (Sinhala)" },
             { "value": "ab", "text": "阿布哈兹语 (Abkhaz)" },
             { "value": "ace", "text": "亚齐语 (Acehnese)" },
             { "value": "ach", "text": "阿乔利语 (Acholi)" },
@@ -708,10 +707,10 @@
             { "value": "uk", "text": "乌克兰语 (Ukrainian)" },
             { "value": "ur", "text": "乌尔都语 (Urdu)" },
             { "value": "ug", "text": "维吾尔语 (Uyghur)" },
-            { "value": "si", "text": "僧伽罗语 (Sinhala)" },
             { "value": "cy", "text": "威尔士语 (Welsh)" },
             { "value": "xh", "text": "科萨语 (Xhosa)" },
             { "value": "yo", "text": "约鲁巴语 (Yoruba)" },
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
+
