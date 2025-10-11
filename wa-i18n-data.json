@@ -703,6 +703,7 @@
             { "value": "to", "text": "汤加语 (Tongan)" },
             { "value": "tr", "text": "土耳其语 (Turkish)" },
             { "value": "tk", "text": "土库曼语 (Turkmen)" },
+            { "value": "uz", "text": "乌兹别克语 (Uzbek)" },
             { "value": "uk", "text": "乌克兰语 (Ukrainian)" },
             { "value": "ur", "text": "乌尔都语 (Urdu)" },
             { "value": "ug", "text": "维吾尔语 (Uyghur)" },
@@ -712,5 +713,6 @@
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
+
 
 
