@@ -292,7 +292,7 @@
       ["SC","+1803","+1843","+1854","+1864","南卡罗来纳州(South Carolina)","America/New_York"],
       ["SD","+1605","南达科他州(South Dakota)","America/Chicago"],
       ["TN","+1423","+1615","+1731","+1865","+1901","+1931","田纳西州(Tennessee)","America/Chicago"],
-      ["TX","+1210","+1214","+1254","+1281","+1325","+1361","+1409","+1430","+1432","+1456","+1469","+1512","+1713","+1737","+1806","+1813","+1817","+1830","+1903","+1936","+1972","+1979","得克萨斯州(Texas)","America/Chicago"],
+      ["TX","+1210","+1214","+1254","+1281","+1325","+1361","+1409","+1430","+1432","+1456","+1469","+1512","+1713","+1737","+1806","+1813","+1817","+1830","+1903","+1936","+1972","+1979","+1956","德克萨斯州(Texas)","America/Chicago"],
       ["UT","+1385","+1435","+1801","犹他州(Utah)","America/Denver"],
       ["VT","+1802","佛蒙特州(Vermont)","America/New_York"],
       ["VA","+1276","+1434","+1480","+1540","+1571","+1757","+1804","弗吉尼亚州(Virginia)","America/New_York"],
@@ -522,7 +522,7 @@
             { "value": "en", "text": "英语 (English)" },
             { "value": "zh-CN", "text": "简体中文 (Chinese Simplified)" },
             { "value": "zh-TW", "text": "繁体中文 (Chinese Traditional)" },
-            { "value": "zh", "text": "中文 (Chinese)" },
+            { "value": "zh", "text": "中文 (Chinese)" }, 
             { "value": "es", "text": "西班牙语 (Spanish)" },
             { "value": "ru", "text": "俄语 (Russian)" },
             { "value": "ko", "text": "韩语 (Korean)" },
@@ -703,7 +703,7 @@
             { "value": "to", "text": "汤加语 (Tongan)" },
             { "value": "tr", "text": "土耳其语 (Turkish)" },
             { "value": "tk", "text": "土库曼语 (Turkmen)" },
-            { "value": "uz", "text": "乌兹别克语 (Uzbek)" },
+            { "value": "uz", "text": "乌兹别克语 (Uzbek)" }, 
             { "value": "uk", "text": "乌克兰语 (Ukrainian)" },
             { "value": "ur", "text": "乌尔都语 (Urdu)" },
             { "value": "ug", "text": "维吾尔语 (Uyghur)" },
@@ -713,6 +713,3 @@
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
-
-
-
