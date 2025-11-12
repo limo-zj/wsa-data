@@ -527,6 +527,7 @@
             { "value": "ru", "text": "俄语 (Russian)" },
             { "value": "ko", "text": "韩语 (Korean)" },
             { "value": "ja", "text": "日语 (Japanese)" },
+            { "value": "vi", "text": "越南语 (Vietnamese)" },
             { "value": "si", "text": "僧伽罗语 (Sinhala)" },
             { "value": "my", "text": "缅甸语 (Myanmar Burmese)" },
             { "value": "ab", "text": "阿布哈兹语 (Abkhaz)" },
