@@ -182,7 +182,7 @@
 "+507" : { "iso": "PA", "language": "巴拿马(Panama)-西班牙语(Spanish)", "timeZone": "America/Panama", "currency": "PAB，货币符号：B/." }, 
 "+675" : { "iso": "PG", "language": "巴布亚新几内亚(Papua New Guinea)-英语、托克皮辛、莫图语(English/Tok Pisin/Hiri Motu)", "timeZone": "Pacific/Port_Moresby", "currency": "PGK，货币符号：K" }, 
 "+595" : { "iso": "PY", "language": "巴拉圭(Paraguay)-西班牙语、瓜拉尼语(Spanish/Guarani)", "timeZone": "America/Asuncion", "currency": "PYG，货币符号：₲" }, 
-"+51"  : { "iso": "PE", "language": "秘鲁(Peru)-西班牙语(Spanish)", "timeZone": "America/Lima", "currency": "PEN，货币符号：S/" }, 
+"+51"  : { "iso": "PE", "language": "秘鲁(Peru)-西班牙语(Spanish)", "timeZone": "America/Lima", "currency": "PEN，货币符号：S/." }, 
 "+63"  : { "iso": "PH", "language": "菲律宾(Philippines)-英语、菲律宾语(English/Filipino)", "timeZone": "Asia/Manila", "currency": "PHP，货币符号：₱" }, 
 "+48"  : { "iso": "PL", "language": "波兰(Poland)-波兰语(Polish)", "timeZone": "Europe/Warsaw", "currency": "PLN，货币符号：zł" }, 
 "+351" : { "iso": "PT", "language": "葡萄牙(Portugal)-葡萄牙语(Portuguese)", "timeZone": "Europe/Lisbon", "currency": "EUR，货币符号：€" }, 
@@ -714,3 +714,4 @@
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
+
