@@ -627,7 +627,7 @@
             { "value": "mak", "text": "望加锡语 (Makassar)" },
             { "value": "mg", "text": "马尔加什语 (Malagasy)" },
             { "value": "ms", "text": "马来语 (Malay)" },
-            { "value": "ms-Arab", "text": "爪夷文-马来语 (Malay Jawi)" },
+            { "value": "ms-Arab", "text": "马来语-阿拉伯字母 (Malay Jawi)" },
             { "value": "ml", "text": "马拉雅拉姆语 (Malayalam)" },
             { "value": "mt", "text": "马耳他语 (Maltese)" },
             { "value": "mi", "text": "毛利语 (Maori)" },
@@ -654,8 +654,8 @@
             { "value": "pt", "text": "葡萄牙语 (Portuguese)" },
             { "value": "pt-PT", "text": "葡萄牙-葡萄牙语 (Portuguese Portugal)" },
             { "value": "pt-BR", "text": "巴西-葡萄牙语 (Portuguese Brazil)" },
-            { "value": "pa", "text": "古尔穆基文-旁遮普语 (Punjabi)" },
-            { "value": "pa-Arab", "text": "沙穆基文-旁遮普语(Punjabi Shahmukhi)" },
+            { "value": "pa", "text": "印度-旁遮普语 (Punjabi Gurmukhi)" },
+            { "value": "pa-Arab", "text": "巴基斯坦-旁遮普语(Punjabi Shahmukhi)" },
             { "value": "qu", "text": "克丘亚语 (Quechua)" },
             { "value": "rom", "text": "罗姆语 (Romani)" },
             { "value": "ro", "text": "罗马尼亚语 (Romanian)" },
@@ -700,3 +700,4 @@
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
+
