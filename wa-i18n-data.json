@@ -355,12 +355,7 @@
   "ny": "Chichewa (Nyanja)",
   "zh": "Chinese",
   "zh-CN": "Chinese (Simplified, China)",
-  "zh-SG": "Chinese (Simplified, Singapore)",
   "zh-TW": "Chinese (Traditional, Taiwan)",
-  "zh-HK": "Chinese (Traditional, Hong Kong)",
-  "zh-MO": "Chinese (Traditional, Macao)",
-  "zh-Hans": "Chinese (Simplified)",
-  "zh-Hant": "Chinese (Traditional)",
   "cv": "Chuvash",
   "co": "Corsican",
   "crh": "Crimean Tatar",
@@ -588,9 +583,7 @@
             { "value": "auto", "text": "自动检测语言" },
             { "value": "en", "text": "英语 (English)" },
             { "value": "zh-CN", "text": "大陆简体中文 (Chinese Simplified)" },
-            { "value": "zh-TW", "text": "台湾繁体中文 (Chinese Traditional)" },
-            { "value": "zh-Hans", "text": "通用简体中文 (Chinese)" }, 
-            { "value": "zh-Hant", "text": "通用繁体中文 (Chinese Traditional)" },
+            { "value": "zh-TW", "text": " 繁體中文 (Chinese Traditional)" },
             { "value": "es", "text": "西班牙语 (Spanish)" },
             { "value": "ru", "text": "俄语 (Russian)" },
             { "value": "ko", "text": "韩语 (Korean)" },
@@ -782,3 +775,4 @@
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
+
