@@ -1,6 +1,5 @@
 {
   "defaultAreaCodeToCountry": {
-```json
 "+44"  : { "iso": "GB",  "id": "en", "language": "英国(United Kingdom)-英语(English)", "timeZone": "Europe/London", "currency": "GBP，货币符号：£"   }, 
 "+86": { "iso": "CN", "id": "zh-CN", "language": "中国大陆(China)-简体中文(Simplified Chinese)", "timeZone": "Asia/Shanghai", "currency": "CNY，货币符号：¥" },
 "+93"  : { "iso": "AF", "id": "fa", "language": "阿富汗(Afghanistan)-达里语/普什图语(Dari/Pashto)", "timeZone": "Asia/Kabul", "currency": "AFN，货币符号：؋"   }, 
@@ -701,6 +700,7 @@
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
+
 
 
 
