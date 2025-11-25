@@ -84,7 +84,7 @@
 "+592" : { "iso": "GY", "id": "en", "language": "圭亚那(Guyana)-英语(English)", "timeZone": "America/Georgetown", "currency": "GYD，货币符号：GY$" }, 
 "+509" : { "iso": "HT", "id": "fr", "language": "海地(Haiti)-法语/海地克里奥尔语(French/Haitian Creole)", "timeZone": "America/Port-au-Prince", "currency": "HTG，货币符号：G" }, 
 "+504" : { "iso": "HN", "id": "es", "language": "洪都拉斯(Honduras)-西班牙语(Spanish)", "timeZone": "America/Tegucigalpa", "currency": "HNL，货币符号：L" }, 
-"+852" : { "iso": "HK", "id": "zh-Hant", "language": "中国香港(Hong Kong)-繁体/英语(Chinese/English)", "timeZone": "Asia/Hong_Kong", "currency": "HKD，货币符号：HK$" }, 
+"+852" : { "iso": "HK", "id": "zh-Hant", "language": "中国香港(Hong Kong)-繁体中文/英语(Chinese/English)", "timeZone": "Asia/Hong_Kong", "currency": "HKD，货币符号：HK$" }, 
 "+36"  : { "iso": "HU", "id": "hu", "language": "匈牙利(Hungary)-匈牙利语(Hungarian)", "timeZone": "Europe/Budapest", "currency": "HUF，货币符号：Ft" }, 
 "+354" : { "iso": "IS", "id": "is", "language": "冰岛(Iceland)-冰岛语(Icelandic)", "timeZone": "Atlantic/Reykjavik", "currency": "ISK，货币符号：kr" }, 
 "+91"  : { "iso": "IN", "id": "hi", "language": "印度(India)-印地语/英语(Hindi/English)", "timeZone": "Asia/Kolkata", "currency": "INR，货币符号：₹" }, 
@@ -111,7 +111,7 @@
 "+423" : { "iso": "LI", "id": "de", "language": "列支敦士登(Liechtenstein)-德语(German)", "timeZone": "Europe/Vaduz", "currency": "CHF，货币符号：CHF" }, 
 "+370" : { "iso": "LT", "id": "lt", "language": "立陶宛(Lithuania)-立陶宛语(Lithuanian)", "timeZone": "Europe/Vilnius", "currency": "EUR，货币符号：€" }, 
 "+352" : { "iso": "LU", "id": "lb", "language": "卢森堡(Luxembourg)-卢森堡语/法语/德语(Luxembourgish/French/German)", "timeZone": "Europe/Luxembourg", "currency": "EUR，货币符号：€" }, 
-"+853" : { "iso": "MO", "id": "zh-Hant", "language": "中国澳门(Macao)-中文/葡萄牙语(Chinese/Portuguese)", "timeZone": "Asia/Macau", "currency": "MOP，货币符号：MOP$" }, 
+"+853" : { "iso": "MO", "id": "zh-Hant", "language": "中国澳门(Macao)-繁体中文/葡萄牙语(Chinese/Portuguese)", "timeZone": "Asia/Macau", "currency": "MOP，货币符号：MOP$" }, 
 "+389" : { "iso": "MK", "id": "mk", "language": "北马其顿(North Macedonia)-马其顿语(Macedonian)", "timeZone": "Europe/Skopje", "currency": "MKD，货币符号：ден" }, 
 "+261" : { "iso": "MG", "id": "mg", "language": "马达加斯加(Madagascar)-马尔加什语/法语(Malagasy/French)", "timeZone": "Indian/Antananarivo", "currency": "MGA，货币符号：Ar" }, 
 "+265" : { "iso": "MW", "id": "en", "language": "马拉维(Malawi)-英语/齐切瓦语(English/Chichewa)", "timeZone": "Africa/Blantyre", "currency": "MWK，货币符号：MK" }, 
@@ -700,4 +700,5 @@
             { "value": "zu", "text": "祖鲁语 (Zulu)" }
   ]
 }
+
 
